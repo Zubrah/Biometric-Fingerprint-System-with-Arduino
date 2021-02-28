@@ -1,6 +1,7 @@
 # Biometric-Fingerprint-System-with-Arduino
 The promising fingerprint voting system is a prototype for an Embedded system which integrates hardware and software working together to attain efficiency in voting processes. It involves a fingerprint sensor(DY50), LCD screen for the display, switches, push buttons for the successful implementation of various inputs and outputs functions. These hardware components are then later embedded with the microcontroller processing unit(ARM), Arduino device which is programmed in C -programming to store data, execute different user inputs commands and produce results based on the user inputs.On the other hand, ARM microcontrollers operates in dynamic way to control all corresponding hardware peripherals.
 
+![alt text](https://github.com/Zubrah/Biometric-Fingerprint-System-with-Arduino/blob/master/Biometric_System.png)
 
 # Requirements for the prototype
 1) Arduino UNO 
