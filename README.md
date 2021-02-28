@@ -11,13 +11,13 @@ The promising fingerprint voting system is a prototype for an Embedded system wh
 
 
 # Documents and Flow Process Resources:
-1)SRS Document : [Software Requirements Specifications](https://docs.google.com/document/d/1sGW7X81DGMWNGdPPjaSvjEUtVqGbL2GnQzF43z9EpNU/edit?usp=sharing)
+1)SRS Document      : [Software Requirements Specifications](https://docs.google.com/document/d/1sGW7X81DGMWNGdPPjaSvjEUtVqGbL2GnQzF43z9EpNU/edit?usp=sharing)
 
 2)Video Illustration: [Prototype illustraqtion](https://www.loom.com/share/7e473641992745338f94ab8775bc8124)
 
-3)Uses Cases : [Biometric System Uses Cases](https://lucid.app/lucidchart/invitations/accept/f064a63e-4b78-472e-bf9e-d732fc1b972a)
+3)Uses Cases        : [Biometric System Uses Cases](https://lucid.app/lucidchart/invitations/accept/f064a63e-4b78-472e-bf9e-d732fc1b972a)
 
-4)Flow Chart: [Biometric System FlowChart](https://lucid.app/lucidchart/invitations/accept/55de33a4-0bfd-42aa-a3ba-322a7f6672bd)
+4)Flow Chart.       : [Biometric System FlowChart](https://lucid.app/lucidchart/invitations/accept/55de33a4-0bfd-42aa-a3ba-322a7f6672bd)
 
 
 # Bibliography and Resources: 
